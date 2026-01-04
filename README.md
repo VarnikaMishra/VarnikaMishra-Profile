@@ -10,7 +10,7 @@ I am a passionate developer focused on bridging the gap between theoretical rese
 ### 🛠️ Technical Toolkit
 - **Languages:** Java , Python, C (HackerRank Gold in all these languages)
 - **AI/ML:** OpenCV, YOLOv8, EasyOCR, Pillow, Prompt Engineering
-- **Tools & Tech:** Arduino, IoT Sensors, SDLC Workflows, Git/GitHub
+- **Tools & Tech:** Arduino, IoT Sensors, SDLC Workflows, Git/GitHub, API Keys
 - **Certifications:** Deloitte Technology Job Simulation, 3 NPTEL Courses - with One Gold-Elite and two Silver Elite
 
 ### 🏆 Key Highlights
