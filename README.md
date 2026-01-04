@@ -1,6 +1,6 @@
 # VarnikaMishra-Profile
 
-# Hi there, I'm Varnika Mishra! 👋
+## Hi there, I'm Varnika Mishra! 👋
 
 ### Dedicated CSE Student - 2nd year @ Gokaraju Lailavathi Engineering College | 8.94 CGPA | AI & IoT Developer
 I am a passionate developer focused on bridging the gap between theoretical research and practical software-hardware integration. My work has been validated by **T-Works** and have also presented it in **IIC-Regional-Meet-2025**.
